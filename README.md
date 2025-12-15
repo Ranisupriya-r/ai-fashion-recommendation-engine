@@ -50,5 +50,4 @@ Example Workflow
 
 
 
-## 📁 Repository Structure  
 
